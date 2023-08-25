@@ -1,5 +1,6 @@
 import numpy as np
 
+
 # array creation using literal method
 literalArray = np.array([1, 5])
 print("firstArray is", literalArray)
