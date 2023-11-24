@@ -21,4 +21,4 @@ if __name__ == "__main__":
     ArrayInfo([110], "zeroArray")
     ArrayInfo([1, 2],"1D_Array")
     ArrayInfo([[2, 1, 4], [3, 33, 8]], "2D_Array")
-    ArrayInfo([[[2, 1, 3], [3, 3, 3]], [[1, 2, 3],[1, 2, 5]]], "3D_Arry")
+    ArrayInfo([[[2, 1, 3], [3, 3, 3]], [[1, 2, 3],[1, 2, 5]]], "3D_Array")
