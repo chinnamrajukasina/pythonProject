@@ -19,7 +19,7 @@ ArrayInfo(concatArray, "concatArray")
 
 ArrayInfo(np.sort(concatArray, axis=1))  # array sort
 
-ArrayInfo(np.sort(array1)[::-1])
+ArrayInfo(np.sort(array1)[::-1]) # reverse sort
 
 ArrayInfo(np.eye(3))  # identity Matrix
 
